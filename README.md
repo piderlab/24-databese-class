@@ -1,6 +1,6 @@
 # データベース 演習
 
-本演習では、[NAISTカーシェア](https://naist-carshare.github.io/)の利用実績データの分析・可視化を行います。
+本演習では、[奈良先端大でのカーシェアリング実証実験](https://naist-carshare.github.io/)の利用実績データの分析・可視化を行います。
 
 ## Downloads
 
