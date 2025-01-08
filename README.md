@@ -12,14 +12,14 @@
 
 `<> Code ▼`ボタンと`Download ZIP`ボタンを押して、zipファイルをダウンロードしてください。ダウンロード後、各自でzipファイルを展開してください。
 
-![image](https://github.com/piderlab/24-databese-class/assets/40050810/c1519be2-d0b1-421c-9a49-edc89521c4f5)
+![image](https://github.com/piderlab/23-databese-class/assets/40050810/c1519be2-d0b1-421c-9a49-edc89521c4f5)
 
 #### 方法2: git CLIでダウンロード
 
 PCにgit CLIをインストール済みの方は、以下のコマンドを実行することでデータをダウンロードすることができます。
 
 ```bash
-git clone git@github.com:piderlab/23-databese-class.git
+git clone git@github.com:piderlab/24-databese-class.git
 ```
 
 ## 扱うデータについて
@@ -116,7 +116,7 @@ user_type|ユーザーが教職員(staff)か学生(student)か
 
 各csvファイル間のデータの関係は以下の図を参考にしてください。
 
-![image](https://github.com/piderlab/24-databese-class/assets/40050810/867f2e2a-0e8a-4c2e-ae2b-d29f23f89e1d)
+![image](https://github.com/piderlab/23-databese-class/assets/40050810/867f2e2a-0e8a-4c2e-ae2b-d29f23f89e1d)
 
 
 ## Example Analysis
